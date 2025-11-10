@@ -44,7 +44,7 @@ def zeros(shape: tuple[int, int]) -> Matriz:
         >>> zeros((2, 3))
         [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0]]
 
-    Pista: Usa listas por comprensión anidadas
+    Pista: Usa listas por comprensión anidadas. por favor
     """
     raise NotImplementedError("Función no implementada.")
 
